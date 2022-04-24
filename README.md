@@ -37,6 +37,7 @@ company from the university.
 <div class="fav-tech" align="center">
     <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=cpp"></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=cs"></a> <a href="https://flutter.dev/" target="_blan rel="noopener noreferrer"k"><img src="https://skillicons.dev/icons?i=flutter"></a> <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git"></a> <a href="https://github.com/lutzzdias" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github"></a> <a href="https://neovim.io/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vim"></a> <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linux"></a> 
 </div>
+<br>
     
 <!--- Stats section --->
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=lutzzdias&show_icons=true&theme=dark&bg_color=0d1117&icon_color=ffffff&hide_border=true&hide=issues&hide_rank=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzzdias&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
