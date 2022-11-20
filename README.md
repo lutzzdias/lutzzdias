@@ -21,9 +21,7 @@ I am, currently, a software engineering student at the
 Federal University of Mato Grosso do Sul (UFMS).
 I have always been interested in programming and 
 computers. I'm more into the backend side of 
-applications and I'm attracted to web development,
-despite working as a mobile developer in a Junior
-company from the university.
+applications and understanding the logic of how things work.
 
 - I am from Brazil :brazil:
 - I am 19 years old
