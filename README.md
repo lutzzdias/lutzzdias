@@ -28,7 +28,7 @@ company from the university.
 - I am from Brazil :brazil:
 - I am 19 years old
 - I use Linux as my daily driver 
-- I'm currently working at [Mega Jr](https://megajunior.com.br/)
+- I'm currently working at [SESI - CIS](http://www.cis.sesims.com.br/en/)
 
 <br>
 
