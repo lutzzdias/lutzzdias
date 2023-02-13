@@ -20,12 +20,14 @@
 I am, currently, a software engineering student at the
 Federal University of Mato Grosso do Sul (UFMS).
 I have always been interested in programming and 
-computers. I'm more into the backend side of 
-applications and understanding the logic of how things work.
+computers. Where I'm working now we use C# for the backend,
+I'm the only developer with knowledge in Flutter (for mobile apps)
+and we also use react for web frontends.
 
 - I am from Brazil :brazil:
 - I am 19 years old
-- I use Linux as my daily driver 
+- I am studying Flutter and React for frontend
+- I am proficient with C# and dotnet for the backend
 - I'm currently working at [SESI - CIS](http://www.cis.sesims.com.br/en/)
 
 <br>
