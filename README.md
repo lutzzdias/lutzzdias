@@ -20,15 +20,16 @@
 I am, currently, a software engineering student at the
 Federal University of Mato Grosso do Sul (UFMS).
 I have always been interested in programming and 
-computers. Where I'm working now we use C# for the backend,
-I'm the only developer with knowledge in Flutter (for mobile apps)
-and we also use react for web frontends.
+computers.
+My first contact with real projects was with Flutter, and
+I'm still learning and applying what I learn in my personal
+projects, especially [Quote Void](https://github.com/lutzzdias/quote_void).
 
 - I am from Brazil :brazil:
 - I am 19 years old
-- I am studying Flutter and React for frontend
-- I am proficient with C# and dotnet for the backend
-- I'm currently working at [SESI - CIS](http://www.cis.sesims.com.br/en/)
+- I am studying React for the frontend
+- I am proficient with C# and dotnet for the backend and Flutter for mobile
+- I'm currently working at an University funded project (SIG)
 
 <br>
     
