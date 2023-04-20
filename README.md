@@ -34,6 +34,6 @@ projects, especially [Quote Void](https://github.com/lutzzdias/quote_void).
 <br>
     
 <!--- Stats section --->
-![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=lutzzdias&show_icons=true&theme=dark&bg_color=0d1117&icon_color=ffffff&hide_border=true&hide=issues&hide_rank=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzzdias&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GITHUB STATS](https://github-readme-stats-lutz.vercel.app/api?username=lutzzdias&show_icons=true&theme=dark&bg_color=0d1117&icon_color=ffffff&hide_border=true&hide=issues&hide_rank=true) [![Top Langs](https://github-readme-stats-lutz.vercel.app/api/top-langs/?username=lutzzdias&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
