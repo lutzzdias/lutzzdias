@@ -27,7 +27,7 @@ projects, especially [Quote Void](https://github.com/lutzzdias/quote_void).
 
 - I am from Brazil :brazil:
 - I am 20 years old
-- I am studying React for the frontend
+- I am currently studying React and Swift
 - I am proficient with C# and dotnet for the backend and Flutter for mobile
 - I'm currently working at an University funded project (SIG)
 
