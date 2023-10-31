@@ -23,7 +23,7 @@ I have always been interested in programming and
 computers.
 My first contact with real projects was with Flutter, and
 I'm still learning and applying what I learn in my personal
-projects, especially [Quote Void](https://github.com/lutzzdias/quote_void).
+projects, especially [ArtiSync](https://github.com/lutzzdias/artisync).
 
 - I am from Brazil :brazil:
 - I am 20 years old
