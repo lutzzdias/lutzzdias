@@ -21,14 +21,15 @@ I am, currently, a software engineering student at the
 Federal University of Mato Grosso do Sul (UFMS).
 I have always been interested in programming and 
 computers.
-My first contact with real projects was with Flutter, and
-I'm still learning and applying what I learn in my personal
-projects, especially [ArtiSync](https://github.com/lutzzdias/artisync).
+I've worked as a backend developer, mobile developer and
+full stack developer. Having knowledge in all areas allows
+me to work on my own personal projects and contribute to
+the community as well as to myself.
 
 - I am from Brazil :brazil:
 - I am 20 years old
 - I am currently studying React and Swift
-- I am proficient with C# and dotnet for the backend and Flutter for mobile
+- I am proficient with C#, typescript, python, java, C++, etc
 - I'm currently working at an University funded project (SIG)
 
 <br>
