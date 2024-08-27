@@ -27,7 +27,7 @@ me to work on my own personal projects and contribute to
 the community as well as to myself.
 
 - I am from Brazil :brazil:
-- I am 20 years old
+- I am 21 years old
 - I am currently studying React and Swift
 - I am proficient with C#, typescript, python, java, C++, etc
 - I'm currently contributing mainly to [manett](https://github.com/CaueMaldonadoLima/Manett) and [stronix](https://github.com/lutzzdias/stronix)
