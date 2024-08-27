@@ -30,7 +30,7 @@ the community as well as to myself.
 - I am 20 years old
 - I am currently studying React and Swift
 - I am proficient with C#, typescript, python, java, C++, etc
-- I'm currently working at an University funded project (SIG)
+- I'm currently contributing mainly to [manett](https://github.com/CaueMaldonadoLima/Manett) and [stronix](https://github.com/lutzzdias/stronix)
 
 <br>
     
