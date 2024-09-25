@@ -21,14 +21,15 @@ I am, currently, a software engineering student at the
 Federal University of Mato Grosso do Sul (UFMS).
 I have always been interested in programming and 
 computers.
-I've worked as a backend developer, mobile developer and
-full stack developer. Having knowledge in all areas allows
-me to work on my own personal projects and contribute to
-the community as well as to myself.
+I've worked as a backend, mobile and full stack developer.
+Having knowledge in all areas allows me to work on my own
+personal projects and contribute to the community as well
+as to myself.
 
 - I am from Brazil :brazil:
 - I am 21 years old
-- I am currently studying React and Swift
+- I have an habit of starting multiple personal projects and finishing only a few of them 
+- I am currently studying Go and Swift
 - I am proficient with C#, typescript, python, java, C++, etc
 - I'm currently contributing mainly to [manett](https://github.com/CaueMaldonadoLima/Manett) and [stronix](https://github.com/lutzzdias/stronix)
 
