@@ -31,7 +31,7 @@ as to myself.
 - I have an habit of starting multiple personal projects and finishing only a few of them 
 - I am currently studying Go and Swift
 - I am proficient with C#, typescript, python, java, C++, etc
-- I'm currently contributing mainly to [manett](https://github.com/CaueMaldonadoLima/Manett) and [stronix](https://github.com/lutzzdias/stronix)
+- I'm currently contributing mainly to [manett](https://github.com/CaueMaldonadoLima/Manett) and [calendrum.nvim](https://github.com/lutzzdias/calendrum.nvim)
 
 <br>
     
