@@ -27,11 +27,10 @@ personal projects and contribute to the community as well
 as to myself.
 
 - I am from Brazil :brazil:
-- I am 21 years old
+- I am 22 years old
 - I have an habit of starting multiple personal projects and finishing only a few of them 
-- I am currently studying Go and Swift
-- I am proficient with C#, typescript, python, java, C++, etc
-- I'm currently contributing mainly to [manett](https://github.com/CaueMaldonadoLima/Manett) and [calendrum.nvim](https://github.com/lutzzdias/calendrum.nvim)
+- I am a SDE Intern at [@amazon](https://www.amazon.com/)
+- I am contributing mainly to [manett](https://github.com/CaueMaldonadoLima/Manett) and [calendrum.nvim](https://github.com/lutzzdias/calendrum.nvim)
 
 <br>
     
