@@ -28,7 +28,7 @@ as to myself.
 
 - I am from Brazil :brazil:
 - I am 22 years old
-- I have an habit of starting multiple personal projects and finishing only a few of them 
+- I like ricing my setup (currently a mac :cry:) and I'm a [neovim](https://neovim.io/) user
 - I am a SDE Intern at [@amazon](https://www.amazon.com/)
 - I am contributing mainly to [manett](https://github.com/CaueMaldonadoLima/Manett) and [calendrum.nvim](https://github.com/lutzzdias/calendrum.nvim)
 
