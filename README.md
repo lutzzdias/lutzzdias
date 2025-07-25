@@ -30,7 +30,6 @@ as to myself.
 - I am 22 years old
 - I like ricing my setup (currently a mac :cry:) and I'm a [neovim](https://neovim.io/) user
 - I am a SDE Intern at [@amazon](https://www.amazon.com/)
-- I am contributing mainly to [manett](https://github.com/CaueMaldonadoLima/Manett) and [calendrum.nvim](https://github.com/lutzzdias/calendrum.nvim)
 
 <br>
     
